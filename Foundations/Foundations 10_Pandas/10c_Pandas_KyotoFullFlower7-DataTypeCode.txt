@@ -1,0 +1,8 @@
+"Data type code","Data Type"
+"0","data from modern times (full-bloom date since 1880s)"
+"1","from diary description about full-bloom"
+"2","from diary description about cherry blossom viewing party"
+"3","from diary description about presents of cherry twigs from party participants"
+"4","title in Japanese poety"
+"8","Deduced from wisteria phenology, using the relation proposed by Aono and Saito (2010)"
+"9","Deduced from Japanese kerria phenology, using the relation proposed by Aono (2011)"
