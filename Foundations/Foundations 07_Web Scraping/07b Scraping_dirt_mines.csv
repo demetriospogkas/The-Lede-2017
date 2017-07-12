@@ -1,0 +1,20 @@
+Operator_ID,Operator_name,State,Mine_name,Mine_type,C_M,Commodity,Status
+3503598,Newberg Rock & Dirt,OR,Newberg Rock & Dirt,Surface,M,"Crushed, Broken Stone NEC",Active
+4801789,AM Dirtworks & Aggregate Sales,ND,AM Dirtworks & Aggregate Sales,Surface,M,Construction Sand and Gravel,Intermittent
+5001797,Dirt Company,AK,Bush Pilot,Surface,M,Construction Sand and Gravel,Intermittent
+4608254,Dirt Con,WV,Hog Lick Quarry,Surface,M,"Crushed, Broken Limestone NEC",Temporarily Idled
+2103723,Dirt Doctor Inc,MN,Rock Lake Plant,Surface,M,Construction Sand and Gravel,Intermittent
+4104757,Dirt Works,TX,Portable #1,Surface,M,Construction Sand and Gravel,Intermittent
+0801306,"Holley Dirt Company, Inc",FL,River Road Pit,Surface,M,"Sand, Common",Active
+3901432,Krueger Brothers Gravel & Dirt,SD,PORTABLE SCREENER,Surface,M,Construction Sand and Gravel,Intermittent
+3609624,M R Dirt,PA,Forbes Pit,Surface,M,Construction Sand and Gravel,Intermittent
+3609931,M.R. Dirt Inc.,PA,Camptown Quarry,Surface,M,Dimension Stone NEC,Intermittent
+1519799,"P B Dirt Movers, Inc",KY,Fedscreek Surface,Surface,C,Coal (Bituminous),Active
+4407296,PB Dirt Movers,VA,Mine No. 6,Underground,C,Coal (Bituminous),Temporarily Idled
+4407270,"PB Dirt Movers, Inc",VA,Surface Mine No. 1,Surface,C,Coal (Bituminous),NonProducing
+0203332,"Prescott Dirt, LLC",AZ,Sandretto Drive,Surface,M,Construction Sand and Gravel,Intermittent
+2901986,R D Blankenship Dirt Work LLC,NM,R D BLANKENSHIP DIRT WORK,Surface,M,Construction Sand and Gravel,Active
+4300768,SIMPSON DIRTWORX LLC,VT,Pettibone Jaw Crusher,Surface,M,Construction Sand and Gravel,Intermittent
+4300776,SIMPSON DIRTWORX LLC,VT,Chieftan 1400,Surface,M,Construction Sand and Gravel,Intermittent
+2302283,"Spry's Dirt & Gravel, Inc.",MO,Mike's Money Pit,Surface,M,Construction Sand and Gravel,Intermittent
+2103518,Vogt Dirt Service,MN,Crusher,Surface,M,Construction Sand and Gravel,Intermittent
