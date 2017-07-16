@@ -1,0 +1,6 @@
+### FCC Complaints about the How I Met Your Mother Series
+
+- Source: https://www.muckrock.com/foi/united-states-of-america-10/fcc-complaints-related-to-the-cbs-sitcom-how-i-met-your-mother-18993/#file-49250
+- Time of Reference: Feb 2012 to Mar 2014
+- The PDF used lists all the complaints made by TV viewers about the TV series How I Met Your Mother to the US Federal Communications Commission (typically about profanity or indecent content). Its complaint filing includes location of viewer, time of submission, complaint type, program details etc.
+- The PDF was processed originally with Python library PDFQuery. This method wasn't producing the desired outcomes, so it was instead used online tool kull, for generating text regions inside the PDF in order to extract useful information (location of complaint filing, type of complaint). With a loop these text regions were generated for all the PDF pages in order to capture the information for all the complaint filings. Using geopy library and reverse geocoding, geometry (longtitude and latitude points) were created for each complaint in order to be placed on a continental US states map, so we can examine which parts of continental US is complaining more about the How I Met Your Mother series.
