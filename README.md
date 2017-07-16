@@ -7,6 +7,6 @@ This repository includes the code written as part of the assignments for the fol
 
 TA'd by Georgia Kromreig and Jager William Hartman.
 
-Languages used are Python and SQL. Python libraries are among others pandas, geopandas, matplotlib, basemap,requests, selenium, and beautiful soup.
+Languages used are Python and SQL. Python libraries are among others pandas, geopandas, matplotlib, basemap, geopy, requests, selenium, beautiful soup, pdf2text, imagemagick, tesseract.
 
 (c) Demetrios Pogkas, 2017.
